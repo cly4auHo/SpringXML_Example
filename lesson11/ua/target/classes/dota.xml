@@ -1,0 +1,14 @@
+<dota2>
+	<heroes>
+		<hero>
+			<name>Pudge</name>
+			<lvl>25</lvl>
+			<ult>Fresh Meat</ult>
+		</hero>
+		<hero>
+			<name>Invoker</name>
+			<lvl>25</lvl>
+			<ult>Invoke</ult>
+		</hero>
+	</heroes>
+</dota2>

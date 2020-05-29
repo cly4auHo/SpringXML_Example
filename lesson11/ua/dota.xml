@@ -1,0 +1,15 @@
+<dota2>
+	<heroes>
+	//different namespaces 
+		<hero>
+			<name id="666">Pudge</name>
+			<lvl>25</lvl>
+			<ult>Fresh Meat</ult>
+		</hero>
+		<hero>
+			<name id="13">Invoker</name>
+			<lvl>25</lvl>
+			<ult>Invoke</ult>
+		</hero>
+	</heroes>
+</dota2>
